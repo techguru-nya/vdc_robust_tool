@@ -23,3 +23,5 @@ This project investigates the excessive control or early activation of Vehicle D
 The tool outputs:
 - Analysis of VDC behavior with respect to over-control and early activation.
 - Relevant visualizations or reports to aid in understanding VDC performance.
+![ローカル画像](./images/04_Kaseki.png)
+
